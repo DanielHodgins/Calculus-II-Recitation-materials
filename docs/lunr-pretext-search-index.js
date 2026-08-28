@@ -69,17 +69,17 @@ var ptx_lunr_docs = [
   "url": "ws-week-1-day-2.html",
   "type": "Worksheet",
   "number": "2",
-  "title": "Week 1:Trigonometric Integrals",
-  "body": " Week 1:Trigonometric Integrals     To be able to evaulate integrals where the integrand is a product of a power of sine and a power of cosine    To be able to evaulate integrals where the integrand is a product of a power of secant and a power of tangent.    ...      formulas                                        Instructions: Instructions: Evaluate each integral using the appropriate trigonometric identity.       What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.      Whole Class Discussion        What identities are useful for integrating power of trig functions?    How do you decide which trigonometric identity to use when evaluating an integral involving a product of trig functions?    What is the purpose of using the Pythagorean identities in these integrals?    What would happen if you chose the wrong factor to save? Can you still recover from that choice?      "
+  "title": "Week 1: Trig Integrals",
+  "body": " Week 1: Trig Integrals       To be able to evaulate integrals where the integrand is a product of a power of sine and a power of cosine    To be able to evaulate integrals where the integrand is a product of a power of secant and a power of tangent.      formulas                       Instructions: Instructions: Evaluate each integral using the appropriate trigonometric identity.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion        What identities are useful for integrating power of trig functions?    How do you decide which trigonometric identity to use when evaluating an integral involving a product of trig functions?    What is the purpose of using the Pythagorean identities in these integrals?    What would happen if you chose the wrong factor to save? Can you still recover from that choice?      "
 },
 {
-  "id": "ws-week-1-day-2-2",
+  "id": "ws-week-1-day-2-2-1",
   "level": "2",
-  "url": "ws-week-1-day-2.html#ws-week-1-day-2-2",
+  "url": "ws-week-1-day-2.html#ws-week-1-day-2-2-1",
   "type": "Objectives",
-  "number": "2",
+  "number": "",
   "title": "",
-  "body": "   To be able to evaulate integrals where the integrand is a product of a power of sine and a power of cosine    To be able to evaulate integrals where the integrand is a product of a power of secant and a power of tangent.    ...    "
+  "body": "   To be able to evaulate integrals where the integrand is a product of a power of sine and a power of cosine    To be able to evaulate integrals where the integrand is a product of a power of secant and a power of tangent.    "
 },
 {
   "id": "Formula2",
@@ -88,23 +88,41 @@ var ptx_lunr_docs = [
   "type": "Remark",
   "number": "2.1",
   "title": "formulas.",
-  "body": " formulas                                    "
+  "body": " formulas                     "
 },
 {
-  "id": "ws-week-1-day-2-4-2",
+  "id": "ws-week-1-day-2-3-1",
   "level": "2",
-  "url": "ws-week-1-day-2.html#ws-week-1-day-2-4-2",
+  "url": "ws-week-1-day-2.html#ws-week-1-day-2-3-1",
   "type": "Worksheet Exercise",
   "number": "2.1",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-1-day-2-4-3",
+  "id": "ws-week-1-day-2-3-2",
   "level": "2",
-  "url": "ws-week-1-day-2.html#ws-week-1-day-2-4-3",
+  "url": "ws-week-1-day-2.html#ws-week-1-day-2-3-2",
   "type": "Worksheet Exercise",
   "number": "2.2",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-1-day-2-4-1",
+  "level": "2",
+  "url": "ws-week-1-day-2.html#ws-week-1-day-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "2.3",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-1-day-2-4-2",
+  "level": "2",
+  "url": "ws-week-1-day-2.html#ws-week-1-day-2-4-2",
+  "type": "Worksheet Exercise",
+  "number": "2.4",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
@@ -113,7 +131,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-week-1-day-2.html#ws-week-1-day-2-5-1",
   "type": "Worksheet Exercise",
-  "number": "2.3",
+  "number": "2.5",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
@@ -122,27 +140,99 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ws-week-1-day-2.html#ws-week-1-day-2-5-2",
   "type": "Worksheet Exercise",
-  "number": "2.4",
-  "title": "",
-  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
-},
-{
-  "id": "ws-week-1-day-2-6-1",
-  "level": "2",
-  "url": "ws-week-1-day-2.html#ws-week-1-day-2-6-1",
-  "type": "Worksheet Exercise",
-  "number": "2.5",
-  "title": "",
-  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
-},
-{
-  "id": "ws-week-1-day-2-6-2",
-  "level": "2",
-  "url": "ws-week-1-day-2.html#ws-week-1-day-2-6-2",
-  "type": "Worksheet Exercise",
   "number": "2.6",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-2-day-1",
+  "level": "1",
+  "url": "ws-week-2-day-1.html",
+  "type": "Worksheet",
+  "number": "3",
+  "title": "Week 2: Trig Sub",
+  "body": " Week 2: Trig Sub       Identify when trigonometric substitution is an appropriate integration technique.    Apply trigonometric substitution and identities to simplify and evaluate integrals.    Interpret and verify solutions by converting back to the original variable.      formulas      Expression  Trig Substitution  Angle Restriction  Identity                                                  Instructions: Instructions: Evaluate each integral. Show all work and clearly indicate any substitutions or identities used.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion        How do you decide between , , and ?    How is trig substitution similar to and different from ordinary -substitution?      "
+},
+{
+  "id": "ws-week-2-day-1-2-1",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Identify when trigonometric substitution is an appropriate integration technique.    Apply trigonometric substitution and identities to simplify and evaluate integrals.    Interpret and verify solutions by converting back to the original variable.    "
+},
+{
+  "id": "Formula3",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#Formula3",
+  "type": "Remark",
+  "number": "3.1",
+  "title": "formulas.",
+  "body": " formulas      Expression  Trig Substitution  Angle Restriction  Identity                                                "
+},
+{
+  "id": "ws-week-2-day-1-3-1",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3.1",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-2-day-1-3-2",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-3-2",
+  "type": "Worksheet Exercise",
+  "number": "3.2",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-2-day-1-4-1",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "3.3",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-2-day-1-4-2",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "3.4",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-2-day-1-5-1",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-5-1",
+  "type": "Worksheet Exercise",
+  "number": "3.5",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-2-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-2-day-1.html#ws-week-2-day-1-5-2",
+  "type": "Worksheet Exercise",
+  "number": "3.6",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-1",
+  "level": "1",
+  "url": "ws-week-3-day-1.html",
+  "type": "Section",
+  "number": "4",
+  "title": "Week 3: ???",
+  "body": " Week 3: ???    "
 }
 ]
 
