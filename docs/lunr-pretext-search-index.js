@@ -229,19 +229,19 @@ var ptx_lunr_docs = [
   "id": "ws-week-3-day-1",
   "level": "1",
   "url": "ws-week-3-day-1.html",
-  "type": "Section",
+  "type": "Worksheet",
   "number": "4",
   "title": "Week 3: Partial Fractions Method",
-  "body": " Week 3: Partial Fractions Method       To be able to recognize when to use partial fractions    To be able to break up one \"complicated\" fraction into multiple \"simpler\" fractions for integration      formulas       Instructions:           What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion      How do you know when a rational function can be decomposed using partial fractions?    Can you think of an integral where trying a different technique would be easier than partial fractions?      "
+  "body": " Week 3: Partial Fractions Method      To be able to recognize when to use partial fractions.    To be able to break up one complicated fraction into multiple simpler fractions for integration.      formulas       Instructions: Evaluate each integral. Determine whether partial fractions is an appropriate technique, show all work, and clearly indicate your decomposition.        What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.     Whole Class Discussion     How do you know when a rational function can be decomposed using partial fractions?    Can you think of an integral where trying a different technique would be easier than partial fractions?      "
 },
 {
-  "id": "ws-week-3-day-1-2-1",
+  "id": "ws-week-3-day-1-2",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-2-1",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-2",
   "type": "Objectives",
-  "number": "",
+  "number": "4",
   "title": "",
-  "body": "   To be able to recognize when to use partial fractions    To be able to break up one \"complicated\" fraction into multiple \"simpler\" fractions for integration    "
+  "body": "   To be able to recognize when to use partial fractions.    To be able to break up one complicated fraction into multiple simpler fractions for integration.    "
 },
 {
   "id": "Formula3_1",
@@ -253,56 +253,56 @@ var ptx_lunr_docs = [
   "body": " formulas     "
 },
 {
-  "id": "ws-week-3-day-1-3-1",
+  "id": "ws-week-3-day-1-5",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-3-1",
-  "type": "Checkpoint",
-  "number": "",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5",
+  "type": "Worksheet Exercise",
+  "number": "4.1",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-3-2",
+  "id": "ws-week-3-day-1-6",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-3-2",
-  "type": "Checkpoint",
-  "number": "",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-6",
+  "type": "Worksheet Exercise",
+  "number": "4.2",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-4-1",
+  "id": "ws-week-3-day-1-7",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-4-1",
-  "type": "Checkpoint",
-  "number": "",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-7",
+  "type": "Worksheet Exercise",
+  "number": "4.3",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-4-2",
+  "id": "ws-week-3-day-1-8",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-4-2",
-  "type": "Checkpoint",
-  "number": "",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-8",
+  "type": "Worksheet Exercise",
+  "number": "4.4",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-5-1",
+  "id": "ws-week-3-day-1-9",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5-1",
-  "type": "Checkpoint",
-  "number": "",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-9",
+  "type": "Worksheet Exercise",
+  "number": "4.5",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-5-2",
+  "id": "ws-week-3-day-1-10",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5-2",
-  "type": "Checkpoint",
-  "number": "",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-10",
+  "type": "Worksheet Exercise",
+  "number": "4.6",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
