@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "3",
   "title": "Week 2: Trig Sub",
-  "body": " Week 2: Trig Sub       Identify when trigonometric substitution is an appropriate integration technique.    Apply trigonometric substitution and identities to simplify and evaluate integrals.    Interpret and verify solutions by converting back to the original variable.      formulas      Expression  Trig Substitution  Angle Restriction  Identity                                                  Instructions: Instructions: Evaluate each integral. Show all work and clearly indicate any substitutions or identities used.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion        How do you decide between , , and ?    How is trig substitution similar to and different from ordinary -substitution?      "
+  "body": " Week 2: Trig Sub       Identify when trigonometric substitution is an appropriate integration technique.    Apply trigonometric substitution and identities to simplify and evaluate integrals.    Interpret and verify solutions by converting back to the original variable.      formulas      Expression  Trig Substitution  Angle Restriction  Identity                                                  Instructions: Instructions: Evaluate each integral. Show all work and clearly indicate any substitutions or identities used.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion      How do you decide between , , and ?    How is trig substitution similar to and different from ordinary -substitution?      "
 },
 {
   "id": "ws-week-2-day-1-2-1",
@@ -231,8 +231,179 @@ var ptx_lunr_docs = [
   "url": "ws-week-3-day-1.html",
   "type": "Section",
   "number": "4",
-  "title": "Week 3: ???",
-  "body": " Week 3: ???    "
+  "title": "Week 3: Partial Fractions Method",
+  "body": " Week 3: Partial Fractions Method       To be able to recognize when to use partial fractions    To be able to break up one \"complicated\" fraction into multiple \"simpler\" fractions for integration      formulas       Instructions:           What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion      How do you know when a rational function can be decomposed using partial fractions?    Can you think of an integral where trying a different technique would be easier than partial fractions?      "
+},
+{
+  "id": "ws-week-3-day-1-2-1",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   To be able to recognize when to use partial fractions    To be able to break up one \"complicated\" fraction into multiple \"simpler\" fractions for integration    "
+},
+{
+  "id": "Formula3_1",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#Formula3_1",
+  "type": "Remark",
+  "number": "4.1",
+  "title": "formulas.",
+  "body": " formulas     "
+},
+{
+  "id": "ws-week-3-day-1-3-1",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-3-1",
+  "type": "Checkpoint",
+  "number": "",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-1-3-2",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-3-2",
+  "type": "Checkpoint",
+  "number": "",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-1-4-1",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-4-1",
+  "type": "Checkpoint",
+  "number": "",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-1-4-2",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-4-2",
+  "type": "Checkpoint",
+  "number": "",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-1-5-1",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5-1",
+  "type": "Checkpoint",
+  "number": "",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5-2",
+  "type": "Checkpoint",
+  "number": "",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2",
+  "level": "1",
+  "url": "ws-week-3-day-2.html",
+  "type": "Worksheet",
+  "number": "5",
+  "title": "Week 3:??",
+  "body": " Week 3:??                 formulas      Instructions:          What was challenging? Note what you wonder or notice as you solve the problem.        What was challenging? Note what you wonder or notice as you solve the problem.           What was challenging? Note what you wonder or notice as you solve the problem.        What was challenging? Note what you wonder or notice as you solve the problem.           What was challenging? Note what you wonder or notice as you solve the problem.        What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion                "
+},
+{
+  "id": "ws-week-3-day-2-2-1",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "           "
+},
+{
+  "id": "Formula3_2",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#Formula3_2",
+  "type": "Remark",
+  "number": "5.1",
+  "title": "formulas.",
+  "body": " formulas    "
+},
+{
+  "id": "ws-week-3-day-2-3-1",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "5.1",
+  "title": "",
+  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-3-2",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5.2",
+  "title": "",
+  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-4-1",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "5.3",
+  "title": "",
+  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-4-2",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-4-2",
+  "type": "Worksheet Exercise",
+  "number": "5.4",
+  "title": "",
+  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-5-1",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-5-1",
+  "type": "Worksheet Exercise",
+  "number": "5.5",
+  "title": "",
+  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-5-2",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-5-2",
+  "type": "Worksheet Exercise",
+  "number": "5.6",
+  "title": "",
+  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-4-day-1",
+  "level": "1",
+  "url": "ws-week-4-day-1.html",
+  "type": "Worksheet",
+  "number": "6",
+  "title": "Week4:???",
+  "body": " Week4:???    "
+},
+{
+  "id": "ws-week-4-day-2",
+  "level": "1",
+  "url": "ws-week-4-day-2.html",
+  "type": "Worksheet",
+  "number": "7",
+  "title": "Week 4:????",
+  "body": " Week 4:????    "
 }
 ]
 
