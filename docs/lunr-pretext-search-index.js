@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "3",
   "title": "Week 2: Trig Sub",
-  "body": " Week 2: Trig Sub       Identify when trigonometric substitution is an appropriate integration technique.    Apply trigonometric substitution and identities to simplify and evaluate integrals.    Interpret and verify solutions by converting back to the original variable.      formulas      Expression  Trig Substitution  Angle Restriction  Identity                                                  Instructions: Instructions: Evaluate each integral. Show all work and clearly indicate any substitutions or identities used.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion      How do you decide between , , and ?    How is trig substitution similar to and different from ordinary -substitution?      "
+  "body": " Week 2: Trig Sub       Identify when trigonometric substitution is an appropriate integration technique.    Apply trigonometric substitution and identities to simplify and evaluate integrals.    Interpret and verify solutions by converting back to the original variable.      formulas     Expression  Trig Substitution  Angle Restriction  Identity                                                 Instructions: Instructions: Evaluate each integral. Show all work and clearly indicate any substitutions or identities used.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion      How do you decide between , , and ?    How is trig substitution similar to and different from ordinary -substitution?      "
 },
 {
   "id": "ws-week-2-day-1-2-1",
@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Remark",
   "number": "3.1",
   "title": "formulas.",
-  "body": " formulas      Expression  Trig Substitution  Angle Restriction  Identity                                                "
+  "body": " formulas     Expression  Trig Substitution  Angle Restriction  Identity                                               "
 },
 {
   "id": "ws-week-2-day-1-3-1",
@@ -232,14 +232,14 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "4",
   "title": "Week 3: Partial Fractions Method",
-  "body": " Week 3: Partial Fractions Method      To be able to recognize when to use partial fractions.    To be able to break up one complicated fraction into multiple simpler fractions for integration.      formulas       Instructions: Evaluate each integral. Determine whether partial fractions is an appropriate technique, show all work, and clearly indicate your decomposition.        What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.     Whole Class Discussion     How do you know when a rational function can be decomposed using partial fractions?    Can you think of an integral where trying a different technique would be easier than partial fractions?      "
+  "body": " Week 3: Partial Fractions Method       To be able to recognize when to use partial fractions.    To be able to break up one complicated fraction into multiple simpler fractions for integration.      formulas       Instructions: Evaluate each integral. Determine whether partial fractions is an appropriate technique, show all work, and clearly indicate your decomposition.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion     How do you know when a rational function can be decomposed using partial fractions?    Can you think of an integral where trying a different technique would be easier than partial fractions?      "
 },
 {
-  "id": "ws-week-3-day-1-2",
+  "id": "ws-week-3-day-1-2-1",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-2",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-2-1",
   "type": "Objectives",
-  "number": "4",
+  "number": "",
   "title": "",
   "body": "   To be able to recognize when to use partial fractions.    To be able to break up one complicated fraction into multiple simpler fractions for integration.    "
 },
@@ -253,54 +253,54 @@ var ptx_lunr_docs = [
   "body": " formulas     "
 },
 {
-  "id": "ws-week-3-day-1-5",
+  "id": "ws-week-3-day-1-3-1",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-3-1",
   "type": "Worksheet Exercise",
   "number": "4.1",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-6",
+  "id": "ws-week-3-day-1-3-2",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-6",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-3-2",
   "type": "Worksheet Exercise",
   "number": "4.2",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-7",
+  "id": "ws-week-3-day-1-4-1",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-7",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-4-1",
   "type": "Worksheet Exercise",
   "number": "4.3",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-8",
+  "id": "ws-week-3-day-1-4-2",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-8",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-4-2",
   "type": "Worksheet Exercise",
   "number": "4.4",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-9",
+  "id": "ws-week-3-day-1-5-1",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-9",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5-1",
   "type": "Worksheet Exercise",
   "number": "4.5",
   "title": "",
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-3-day-1-10",
+  "id": "ws-week-3-day-1-5-2",
   "level": "2",
-  "url": "ws-week-3-day-1.html#ws-week-3-day-1-10",
+  "url": "ws-week-3-day-1.html#ws-week-3-day-1-5-2",
   "type": "Worksheet Exercise",
   "number": "4.6",
   "title": "",
@@ -312,80 +312,80 @@ var ptx_lunr_docs = [
   "url": "ws-week-3-day-2.html",
   "type": "Worksheet",
   "number": "5",
-  "title": "Week 3:??",
-  "body": " Week 3:??                 formulas      Instructions:          What was challenging? Note what you wonder or notice as you solve the problem.        What was challenging? Note what you wonder or notice as you solve the problem.           What was challenging? Note what you wonder or notice as you solve the problem.        What was challenging? Note what you wonder or notice as you solve the problem.           What was challenging? Note what you wonder or notice as you solve the problem.        What was challenging? Note what you wonder or notice as you solve the problem.         Whole Class Discussion                "
+  "title": "Week 3: Improper Integrals",
+  "body": " Week 3: Improper Integrals     To be able to recognize if an improper integral is an infinite interval or infinite discontinuity type    To be able to identify if an improper integral is divergent or convergent    To be able to evaluate a convergent improper integral        formulas                when is continuous and there is a discontinuity at     Suppose that and are continuous functions with for .   If is convergent, then is convergent.    If is divergent, then is divergent.          Group\/Board Work:    Instructions: Determine whether the integral is convergent or divergent. If the integral is convergent, the evaluate the integral.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     What does it actually mean for an improper integral to converge?    What role does the \\(p\\)-test play in determining convergence?    When can you not take an anti-derivative to find an improper integral? In other words, can you give an example where directly evaluating the anti-derivative gives a difference value than using the limit definition?      "
 },
 {
-  "id": "ws-week-3-day-2-2-1",
+  "id": "ws-week-3-day-2-2",
   "level": "2",
-  "url": "ws-week-3-day-2.html#ws-week-3-day-2-2-1",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-2",
   "type": "Objectives",
-  "number": "",
+  "number": "5",
   "title": "",
-  "body": "           "
-},
-{
-  "id": "Formula3_2",
-  "level": "2",
-  "url": "ws-week-3-day-2.html#Formula3_2",
-  "type": "Remark",
-  "number": "5.1",
-  "title": "formulas.",
-  "body": " formulas    "
+  "body": "   To be able to recognize if an improper integral is an infinite interval or infinite discontinuity type    To be able to identify if an improper integral is divergent or convergent    To be able to evaluate a convergent improper integral    "
 },
 {
   "id": "ws-week-3-day-2-3-1",
   "level": "2",
   "url": "ws-week-3-day-2.html#ws-week-3-day-2-3-1",
-  "type": "Worksheet Exercise",
+  "type": "Remark",
   "number": "5.1",
-  "title": "",
-  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
-},
-{
-  "id": "ws-week-3-day-2-3-2",
-  "level": "2",
-  "url": "ws-week-3-day-2.html#ws-week-3-day-2-3-2",
-  "type": "Worksheet Exercise",
-  "number": "5.2",
-  "title": "",
-  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "title": "formulas.",
+  "body": " formulas                when is continuous and there is a discontinuity at     Suppose that and are continuous functions with for .   If is convergent, then is convergent.    If is divergent, then is divergent.        "
 },
 {
   "id": "ws-week-3-day-2-4-1",
   "level": "2",
   "url": "ws-week-3-day-2.html#ws-week-3-day-2-4-1",
   "type": "Worksheet Exercise",
-  "number": "5.3",
+  "number": "5.1",
   "title": "",
-  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-3-day-2-4-2",
   "level": "2",
   "url": "ws-week-3-day-2.html#ws-week-3-day-2-4-2",
   "type": "Worksheet Exercise",
-  "number": "5.4",
+  "number": "5.2",
   "title": "",
-  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-3-day-2-5-1",
   "level": "2",
   "url": "ws-week-3-day-2.html#ws-week-3-day-2-5-1",
   "type": "Worksheet Exercise",
-  "number": "5.5",
+  "number": "5.3",
   "title": "",
-  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-3-day-2-5-2",
   "level": "2",
   "url": "ws-week-3-day-2.html#ws-week-3-day-2-5-2",
   "type": "Worksheet Exercise",
+  "number": "5.4",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-6-1",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-6-1",
+  "type": "Worksheet Exercise",
+  "number": "5.5",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-3-day-2-6-2",
+  "level": "2",
+  "url": "ws-week-3-day-2.html#ws-week-3-day-2-6-2",
+  "type": "Worksheet Exercise",
   "number": "5.6",
   "title": "",
-  "body": "    What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-4-day-1",
