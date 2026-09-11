@@ -393,8 +393,80 @@ var ptx_lunr_docs = [
   "url": "ws-week-4-day-1.html",
   "type": "Worksheet",
   "number": "6",
-  "title": "Week4:???",
-  "body": " Week4:???    "
+  "title": "Week 4: Improper Integrals &amp; Area between Curves",
+  "body": " Week 4: Improper Integrals & Area between Curves     To be able to recognize if an improper integral is an infinite interval or infinite discontinuity type    To be able to identify if an improper integral is divergent or convergent    To be able to evaluate a convergent improper integral    To be able to find the area between curves        formulas                when is continuous and there is a discontinuity at     Suppose that and are continuous functions with for .   If is convergent, then is convergent.    If is divergent, then is divergent.          Group\/Board Work:    Instructions: Determine whether the integral is convergent or divergent. If the integral is convergent, the evaluate the integral.          What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.        Instructions: Find the areas of the given regions       What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.            What was challenging? Note what you wonder or notice as you solve the problem.         What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     What does it actually mean for an improper integral to converge?    What role does the \\(p\\)-test play in determining convergence?    When can you not take an anti-derivative to find an improper integral? In other words, can you give an example where directly evaluating the anti-derivative gives a difference value than using the limit definition?    How do you decide what are the bounds of integration when finding the area of a region?      "
+},
+{
+  "id": "ws-week-4-day-1-2",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-2",
+  "type": "Objectives",
+  "number": "6",
+  "title": "",
+  "body": "   To be able to recognize if an improper integral is an infinite interval or infinite discontinuity type    To be able to identify if an improper integral is divergent or convergent    To be able to evaluate a convergent improper integral    To be able to find the area between curves    "
+},
+{
+  "id": "ws-week-4-day-1-3-1",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-3-1",
+  "type": "Remark",
+  "number": "6.1",
+  "title": "formulas.",
+  "body": " formulas                when is continuous and there is a discontinuity at     Suppose that and are continuous functions with for .   If is convergent, then is convergent.    If is divergent, then is divergent.        "
+},
+{
+  "id": "ws-week-4-day-1-4-1",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "6.1",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-4-day-1-4-2",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "6.2",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-4-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-5-2",
+  "type": "Worksheet Exercise",
+  "number": "6.3",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-4-day-1-5-3",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-5-3",
+  "type": "Worksheet Exercise",
+  "number": "6.4",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-4-day-1-6-1",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-6-1",
+  "type": "Worksheet Exercise",
+  "number": "6.5",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-4-day-1-6-2",
+  "level": "2",
+  "url": "ws-week-4-day-1.html#ws-week-4-day-1-6-2",
+  "type": "Worksheet Exercise",
+  "number": "6.6",
+  "title": "",
+  "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-4-day-2",
