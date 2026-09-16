@@ -469,13 +469,85 @@ var ptx_lunr_docs = [
   "body": "     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
-  "id": "ws-week-4-day-2",
+  "id": "ws-week-5-day-1",
   "level": "1",
-  "url": "ws-week-4-day-2.html",
+  "url": "ws-week-5-day-1.html",
   "type": "Worksheet",
   "number": "7",
-  "title": "Week 4:????",
-  "body": " Week 4:????    "
+  "title": "Week 5: Area Between Curves",
+  "body": " Week 5: Area Between Curves     To be able to find the area between curves with respect to     To be able to find the area between curves with respect to         Group\/Board Work:    Instructions: On the board, find the area for the following bounded regions.        , ,   What was challenging? Note what you wonder or notice as you solve the problem.      Sketch the region in the -plane defined by the inequalities , and find its area.  What was challenging? Note what you wonder or notice as you solve the problem.        Instructions: Find the areas of the given regions    If the birth rate of a population is people per year and the death rate is } people per year, find the area between these curves for . What does this area represent?  What was challenging? Note what you wonder or notice as you solve the problem.      The rates at which rain fell, in inches per hour, in two different locations hours after the start of a storm were modeled by and . Compute the area between the graphs for and interpret your result in this context.  What was challenging? Note what you wonder or notice as you solve the problem.          Tschirnhausen's cubic equation has a loop. Find the area of the loop.  What was challenging? Note what you wonder or notice as you solve the problem.      The horizontal line intersects the curve . Find the value for such that the region bounded by and is equal to the region bounded by the -axis, , and .  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     How do you decide what are the bounds of integration when finding the area of a region?      "
+},
+{
+  "id": "ws-week-5-day-1-2",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-2",
+  "type": "Objectives",
+  "number": "7",
+  "title": "",
+  "body": "   To be able to find the area between curves with respect to     To be able to find the area between curves with respect to     "
+},
+{
+  "id": "ws-week-5-day-1-4-1",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "7.1",
+  "title": "",
+  "body": "   , ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-1-4-2",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "7.2",
+  "title": "",
+  "body": "  Sketch the region in the -plane defined by the inequalities , and find its area.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-5-2",
+  "type": "Worksheet Exercise",
+  "number": "7.3",
+  "title": "",
+  "body": "  If the birth rate of a population is people per year and the death rate is } people per year, find the area between these curves for . What does this area represent?  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-1-5-3",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-5-3",
+  "type": "Worksheet Exercise",
+  "number": "7.4",
+  "title": "",
+  "body": "  The rates at which rain fell, in inches per hour, in two different locations hours after the start of a storm were modeled by and . Compute the area between the graphs for and interpret your result in this context.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-1-6-1",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-6-1",
+  "type": "Worksheet Exercise",
+  "number": "7.5",
+  "title": "",
+  "body": "   Tschirnhausen's cubic equation has a loop. Find the area of the loop.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-1-6-2",
+  "level": "2",
+  "url": "ws-week-5-day-1.html#ws-week-5-day-1-6-2",
+  "type": "Worksheet Exercise",
+  "number": "7.6",
+  "title": "",
+  "body": "  The horizontal line intersects the curve . Find the value for such that the region bounded by and is equal to the region bounded by the -axis, , and .  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2",
+  "level": "1",
+  "url": "ws-week-5-day-2.html",
+  "type": "Worksheet",
+  "number": "8",
+  "title": "Week 5: ???",
+  "body": " Week 5: ???    "
 }
 ]
 
