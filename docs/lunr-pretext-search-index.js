@@ -475,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "7",
   "title": "Week 5: Area Between Curves",
-  "body": " Week 5: Area Between Curves     To be able to find the area between curves with respect to     To be able to find the area between curves with respect to         Group\/Board Work:    Instructions: On the board, find the area for the following bounded regions.        , ,   What was challenging? Note what you wonder or notice as you solve the problem.      Sketch the region in the -plane defined by the inequalities , and find its area.  What was challenging? Note what you wonder or notice as you solve the problem.        Instructions: Find the areas of the given regions    If the birth rate of a population is people per year and the death rate is } people per year, find the area between these curves for . What does this area represent?  What was challenging? Note what you wonder or notice as you solve the problem.      The rates at which rain fell, in inches per hour, in two different locations hours after the start of a storm were modeled by and . Compute the area between the graphs for and interpret your result in this context.  What was challenging? Note what you wonder or notice as you solve the problem.          Tschirnhausen's cubic equation has a loop. Find the area of the loop.  What was challenging? Note what you wonder or notice as you solve the problem.      The horizontal line intersects the curve . Find the value for such that the region bounded by and is equal to the region bounded by the -axis, , and .  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     How do you decide what are the bounds of integration when finding the area of a region?      "
+  "body": " Week 5: Area Between Curves     To be able to find the area between curves with respect to     To be able to find the area between curves with respect to         Group\/Board Work:    Instructions: On the board, find the area for the following bounded regions.        , ,   What was challenging? Note what you wonder or notice as you solve the problem.      Sketch the region in the -plane defined by the inequalities , and find its area.  What was challenging? Note what you wonder or notice as you solve the problem.        Instructions: Find the areas of the given regions    If the birth rate of a population is people per year and the death rate is people per year, find the area between these curves for . What does this area represent?  What was challenging? Note what you wonder or notice as you solve the problem.      The rates at which rain fell, in inches per hour, in two different locations hours after the start of a storm were modeled by and . Compute the area between the graphs for and interpret your result in this context. You can go to Desmos to view the graph .  What was challenging? Note what you wonder or notice as you solve the problem.          Tschirnhausen's cubic equation has a loop. Find the area of the loop.  What was challenging? Note what you wonder or notice as you solve the problem.      The horizontal line intersects the curve . Find the value for such that the region bounded by and is equal to the region bounded by the -axis, , and .  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     How do you decide what are the bounds of integration when finding the area of a region?      "
 },
 {
   "id": "ws-week-5-day-1-2",
@@ -511,7 +511,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "7.3",
   "title": "",
-  "body": "  If the birth rate of a population is people per year and the death rate is } people per year, find the area between these curves for . What does this area represent?  What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "  If the birth rate of a population is people per year and the death rate is people per year, find the area between these curves for . What does this area represent?  What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-5-day-1-5-3",
@@ -520,7 +520,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "7.4",
   "title": "",
-  "body": "  The rates at which rain fell, in inches per hour, in two different locations hours after the start of a storm were modeled by and . Compute the area between the graphs for and interpret your result in this context.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "  The rates at which rain fell, in inches per hour, in two different locations hours after the start of a storm were modeled by and . Compute the area between the graphs for and interpret your result in this context. You can go to Desmos to view the graph .  What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-5-day-1-6-1",
@@ -546,8 +546,206 @@ var ptx_lunr_docs = [
   "url": "ws-week-5-day-2.html",
   "type": "Worksheet",
   "number": "8",
-  "title": "Week 5: ???",
-  "body": " Week 5: ???    "
+  "title": "Week 5: Disk &amp; Washer Methods",
+  "body": " Week 5: Disk & Washer Methods     To be able to set up integrals to find volume of a solid obtained from rotating a curve about a given axis    To be able to use the disk method    To be able to use the washer method        formulas     General Volume:       Disk Method:   where is rotated about the -axis    Disk Method:   where and are rotated about the -axis and        Group\/Board Work:    Instructions: Find the volume of the solid obtained by rotating the region bounded by the given curves about the specified line.       Let be the solid obtained by rotating the curve about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.       about the -axis  What was challenging? Note what you wonder or notice as you solve the problem.        Instructions: Find the areas of the given regions     about   What was challenging? Note what you wonder or notice as you solve the problem.      A bowl is shaped like a hemisphere with diameter cm. A heavy ball with diameter cm is placed in the bowl and water is poured into the bowl to a depth of centimeters. Find the volume of water in the bowl.  What was challenging? Note what you wonder or notice as you solve the problem.          , , about the line   What was challenging? Note what you wonder or notice as you solve the problem.       about the line   Now take the same curve about the line   What was challenging? Note what you wonder or notice as you solve the problem.         and about the -axis  What was challenging? Note what you wonder or notice as you solve the problem.       and about the -axis  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     How is finding the area of a cross-section related to finding the volume of a solid?    What does the inner radius of a washer represent?    What happens to the washer formula when the inner radius is zero?    How do you decide whether to integrate with respect to or ?    How is the disk method related to the area of a circle? How does the washer method connect to the area of an annulus?      "
+},
+{
+  "id": "ws-week-5-day-2-2",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-2",
+  "type": "Objectives",
+  "number": "8",
+  "title": "",
+  "body": "   To be able to set up integrals to find volume of a solid obtained from rotating a curve about a given axis    To be able to use the disk method    To be able to use the washer method    "
+},
+{
+  "id": "ws-week-5-day-2-3-1",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-3-1",
+  "type": "Remark",
+  "number": "8.1",
+  "title": "formulas.",
+  "body": " formulas     General Volume:       Disk Method:   where is rotated about the -axis    Disk Method:   where and are rotated about the -axis and      "
+},
+{
+  "id": "ws-week-5-day-2-4-1",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "8.1",
+  "title": "",
+  "body": "  Let be the solid obtained by rotating the curve about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-4-2",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-4-2",
+  "type": "Worksheet Exercise",
+  "number": "8.2",
+  "title": "",
+  "body": "   about the -axis  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-5-2",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-5-2",
+  "type": "Worksheet Exercise",
+  "number": "8.3",
+  "title": "",
+  "body": "   about   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-5-3",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-5-3",
+  "type": "Worksheet Exercise",
+  "number": "8.4",
+  "title": "",
+  "body": "  A bowl is shaped like a hemisphere with diameter cm. A heavy ball with diameter cm is placed in the bowl and water is poured into the bowl to a depth of centimeters. Find the volume of water in the bowl.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-6-1",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-6-1",
+  "type": "Worksheet Exercise",
+  "number": "8.5",
+  "title": "",
+  "body": "   , , about the line   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-6-2",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-6-2",
+  "type": "Worksheet Exercise",
+  "number": "8.6",
+  "title": "",
+  "body": "   about the line   Now take the same curve about the line   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-7-1",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-7-1",
+  "type": "Worksheet Exercise",
+  "number": "8.7",
+  "title": "",
+  "body": "   and about the -axis  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-5-day-2-7-2",
+  "level": "2",
+  "url": "ws-week-5-day-2.html#ws-week-5-day-2-7-2",
+  "type": "Worksheet Exercise",
+  "number": "8.8",
+  "title": "",
+  "body": "   and about the -axis  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-1",
+  "level": "1",
+  "url": "ws-week-6-day-1.html",
+  "type": "Worksheet",
+  "number": "9",
+  "title": "Week 6: Cylindrical Shells Method",
+  "body": " Week 6: Cylindrical Shells Method     To be able to set up integrals to find volume of a solid obtained from rotating a curve about a given axis    To be able to use the shell method        formulas     Volume Shell Method:          Group\/Board Work:    Instructions: Find the volume of the solid obtained by rotating the region bounded by the given curves about the specified line using the method of cylindrical shells.       Let be the solid obtained by rotating the region bounded by the curves and -axis about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.      Let be the solid obtained by rotating the region bounded by the curves and about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.         Find the volume of the solid formed by rotating the region bounded by the curves , , , and around the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.      Find the volume of the solid formed by rotating the region bounded by the curves and around the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion     How might a problem be easier to do using cylindrical shells rather than disks?      "
+},
+{
+  "id": "ws-week-6-day-1-2",
+  "level": "2",
+  "url": "ws-week-6-day-1.html#ws-week-6-day-1-2",
+  "type": "Objectives",
+  "number": "9",
+  "title": "",
+  "body": "   To be able to set up integrals to find volume of a solid obtained from rotating a curve about a given axis    To be able to use the shell method    "
+},
+{
+  "id": "ws-week-6-day-1-3-1",
+  "level": "2",
+  "url": "ws-week-6-day-1.html#ws-week-6-day-1-3-1",
+  "type": "Remark",
+  "number": "9.1",
+  "title": "formulas.",
+  "body": " formulas     Volume Shell Method:        "
+},
+{
+  "id": "ws-week-6-day-1-4-1",
+  "level": "2",
+  "url": "ws-week-6-day-1.html#ws-week-6-day-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "9.1",
+  "title": "",
+  "body": "  Let be the solid obtained by rotating the region bounded by the curves and -axis about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-1-4-2",
+  "level": "2",
+  "url": "ws-week-6-day-1.html#ws-week-6-day-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "9.2",
+  "title": "",
+  "body": "  Let be the solid obtained by rotating the region bounded by the curves and about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-1-5-1",
+  "level": "2",
+  "url": "ws-week-6-day-1.html#ws-week-6-day-1-5-1",
+  "type": "Worksheet Exercise",
+  "number": "9.3",
+  "title": "",
+  "body": "  Find the volume of the solid formed by rotating the region bounded by the curves , , , and around the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-6-day-1.html#ws-week-6-day-1-5-2",
+  "type": "Worksheet Exercise",
+  "number": "9.4",
+  "title": "",
+  "body": "  Find the volume of the solid formed by rotating the region bounded by the curves and around the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2",
+  "level": "1",
+  "url": "ws-week-6-day-2.html",
+  "type": "Worksheet",
+  "number": "10",
+  "title": "Week 6: day 2",
+  "body": " Week 6: day 2    "
+},
+{
+  "id": "ws-week-7-day-1",
+  "level": "1",
+  "url": "ws-week-7-day-1.html",
+  "type": "Worksheet",
+  "number": "11",
+  "title": "Week 7: day 1",
+  "body": " Week 7: day 1    "
+},
+{
+  "id": "ws-week-7-day-2",
+  "level": "1",
+  "url": "ws-week-7-day-2.html",
+  "type": "Worksheet",
+  "number": "12",
+  "title": "Week 7: day 2",
+  "body": " Week 7: day 2    "
+},
+{
+  "id": "ws-week-8-day-1",
+  "level": "1",
+  "url": "ws-week-8-day-1.html",
+  "type": "Worksheet",
+  "number": "13",
+  "title": "Week 8: day 1",
+  "body": " Week 8: day 1    "
+},
+{
+  "id": "ws-week-8-day-2",
+  "level": "1",
+  "url": "ws-week-8-day-2.html",
+  "type": "Worksheet",
+  "number": "14",
+  "title": "Week 8: day 2",
+  "body": " Week 8: day 2    "
 }
 ]
 
