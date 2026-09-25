@@ -708,8 +708,116 @@ var ptx_lunr_docs = [
   "url": "ws-week-6-day-2.html",
   "type": "Worksheet",
   "number": "10",
-  "title": "Week 6: day 2",
-  "body": " Week 6: day 2    "
+  "title": "Week 6: Arc Length",
+  "body": " Week 6: Arc Length     To be able to set up integrals to find the length of a curve.        formulas     Arc Length Formula:          Group\/Board Work:    Instructions: Find the arc length of the following curves on the board.       (a) Use the arc length formula to find the length of the curve , .  (b) Use the distance formula to find the length of the curve and compare it to your previous answer.   What was challenging? Note what you wonder or notice as you solve the problem.      (a) Use the arc length formula to find the length of the curve , .(b) Use the formula for the circumference of a circle to find the length of the curve and compare it to your previous answer.   What was challenging? Note what you wonder or notice as you solve the problem.         Set up, but do not evaluate, the integrals for the length of the curve.      ,      ,      What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact length of the curve ,  What was challenging? Note what you wonder or notice as you solve the problem.         Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact length of the curve , ,   What was challenging? Note what you wonder or notice as you solve the problem.         Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact length of the curve    What was challenging? Note what you wonder or notice as you solve the problem.         Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    How do you decide which variable to integrate with respect to?    What would happen if we approximated the curve using more and more tiny line segments?  How does that connect the distance formula to the arc length integral?    What is the arc length formula actually adding up?     "
+},
+{
+  "id": "ws-week-6-day-2-2",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-2",
+  "type": "Objectives",
+  "number": "10",
+  "title": "",
+  "body": "   To be able to set up integrals to find the length of a curve.    "
+},
+{
+  "id": "ws-week-6-day-2-3-1",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-3-1",
+  "type": "Remark",
+  "number": "10.1",
+  "title": "formulas.",
+  "body": " formulas     Arc Length Formula:        "
+},
+{
+  "id": "ws-week-6-day-2-4-1",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "10.1",
+  "title": "",
+  "body": "  (a) Use the arc length formula to find the length of the curve , .  (b) Use the distance formula to find the length of the curve and compare it to your previous answer.   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-4-2",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-4-2",
+  "type": "Worksheet Exercise",
+  "number": "10.2",
+  "title": "",
+  "body": "  (a) Use the arc length formula to find the length of the curve , .(b) Use the formula for the circumference of a circle to find the length of the curve and compare it to your previous answer.   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-5-1",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-5-1",
+  "type": "Worksheet Exercise",
+  "number": "10.3",
+  "title": "",
+  "body": "  Set up, but do not evaluate, the integrals for the length of the curve.      ,      ,      What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-5-2",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-5-2",
+  "type": "Worksheet Exercise",
+  "number": "10.4",
+  "title": "",
+  "body": "  Find the exact length of the curve ,  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-6-1",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-6-1",
+  "type": "Worksheet Exercise",
+  "number": "10.5",
+  "title": "",
+  "body": "  Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-6-2",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-6-2",
+  "type": "Worksheet Exercise",
+  "number": "10.6",
+  "title": "",
+  "body": "  Find the exact length of the curve , ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-7-1",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-7-1",
+  "type": "Worksheet Exercise",
+  "number": "10.7",
+  "title": "",
+  "body": "  Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-7-2",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-7-2",
+  "type": "Worksheet Exercise",
+  "number": "10.8",
+  "title": "",
+  "body": "  Find the exact length of the curve    What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-8-1",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-8-1",
+  "type": "Worksheet Exercise",
+  "number": "10.9",
+  "title": "",
+  "body": "  Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-6-day-2-8-2",
+  "level": "2",
+  "url": "ws-week-6-day-2.html#ws-week-6-day-2-8-2",
+  "type": "Worksheet Exercise",
+  "number": "10.10",
+  "title": "",
+  "body": "  Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-7-day-1",
