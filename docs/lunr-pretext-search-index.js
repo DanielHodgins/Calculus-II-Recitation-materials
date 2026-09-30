@@ -820,11 +820,128 @@ var ptx_lunr_docs = [
   "body": "  Find the exact length of the curve ,   What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
+  "id": "ws-test-2-review",
+  "level": "1",
+  "url": "ws-test-2-review.html",
+  "type": "Worksheet",
+  "number": "11",
+  "title": "Test 2 Review",
+  "body": " Test 2 Review     To be ready for the exam        Formulas     Suppose that for all , where is a real number. Then:    If converges, then also converges.    If diverges, then also diverges.      Arc Length Formula:       Disk and Washer Method:       Cylindrical Shell Method:          Group\/Board Work:    Instructions: Work through each problem with your group. Be prepared to explain your reasoning on the board.       Determine whether the improper integral converges or diverges. If it converges, find its exact value.     What was challenging? Note what you wonder or notice as you solve the problem.    Rewrite the improper integral as a limit:   Evaluate the integral:   Therefore, the improper integral converges and its value is .      Determine whether the improper integral converges or diverges. If it converges, find its exact value.     What was challenging? Note what you wonder or notice as you solve the problem.    The integrand is undefined at , so we rewrite the integral as a limit:   Evaluate:   Therefore, the improper integral converges and its value is .         Find the area of the region bounded by the curves and .  What was challenging? Note what you wonder or notice as you solve the problem.    First find the intersection points:    On the interval , the upper curve is and the lower curve is . Therefore,   Thus, the area is .      Find the area of the region bounded by the curves and .  What was challenging? Note what you wonder or notice as you solve the problem.    Find the intersection points:   The intersections occur at and . On , is above .   Thus, the area is .         Find the volume of the solid obtained by revolving the region bounded by , , about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.    Since the region is revolved about the -axis, the cross-sections are disks. The radius is .   Use the identity :   Therefore, the volume is .      Find the volume of the solid obtained by revolving the region bounded by , , , and about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.    Since the region is revolved about the -axis, washers are used. The outer radius is and the inner radius is .   Therefore, the volume is .         Use the cylindrical shell method to find the volume of the solid obtained by revolving the region bounded by , , , and about the line .  What was challenging? Note what you wonder or notice as you solve the problem.    Since the axis of rotation is horizontal, cylindrical shells are horizontal. We therefore integrate with respect to .  Solve for :   For , a horizontal slice extends from to . Thus, the height of a cylindrical shell is   The distance from the axis of rotation to the shell is   Using the cylindrical shell formula , the volume is   To evaluate the integral, use integration by parts. Let   Then   Therefore,   The boundary term is zero. At , , while at , the factor is zero. Hence,   Split the integral into two simpler integrals:   For the first integral, use , so that . Then   For the second integral, use the trigonometric substitution . Then   Since corresponds to and corresponds to , we obtain   Using the power-reduction identity ,   Consequently,   Therefore,   Thus, the volume is       Use the cylindrical shell method to find the volume of the solid obtained by revolving the region bounded by , , , and about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.    Since the axis of rotation is the -axis, vertical slices form cylindrical shells. The shell radius is and the shell height is .   Use integration by parts. Let and . Then and .   Therefore,   Thus, the volume is .         Use the arc length formula to find the exact length of the curve   What was challenging? Note what you wonder or notice as you solve the problem.    For the graph , the arc length from to is given by   First, compute the derivative:   Therefore,   To evaluate this integral, use the trigonometric substitution . Then   and   Thus,   We now derive the antiderivative of . Using integration by parts, let   Then   Therefore,   Using , we obtain   Adding to both sides gives   Hence,   It remains to evaluate . Multiply the integrand by :   Since , we have   Substituting this result into the previous expression gives   Now return to . Since ,   Thus,   Therefore,   Hence, the length of the curve is       Find the exact length of the curve   What was challenging? Note what you wonder or notice as you solve the problem.    First compute the derivative:   Substitute into the arc length formula:   Since , we have . Therefore,   Thus, the exact length of the curve is .       Whole Class Discussion    How do you decide which variable to integrate with respect to?    How do you decide whether to use disks, washers, or cylindrical shells?    What makes an integral improper?    What should you do before evaluating an improper integral?    What algebraic patterns should you look for when using the arc length formula?     "
+},
+{
+  "id": "ws-test-2-review-2",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-2",
+  "type": "Objectives",
+  "number": "11",
+  "title": "",
+  "body": "   To be ready for the exam    "
+},
+{
+  "id": "ws-test-2-review-3-1",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-3-1",
+  "type": "Remark",
+  "number": "11.1",
+  "title": "Formulas.",
+  "body": " Formulas     Suppose that for all , where is a real number. Then:    If converges, then also converges.    If diverges, then also diverges.      Arc Length Formula:       Disk and Washer Method:       Cylindrical Shell Method:        "
+},
+{
+  "id": "ws-test-2-review-4-1",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-4-1",
+  "type": "Worksheet Exercise",
+  "number": "11.1",
+  "title": "",
+  "body": "  Determine whether the improper integral converges or diverges. If it converges, find its exact value.     What was challenging? Note what you wonder or notice as you solve the problem.    Rewrite the improper integral as a limit:   Evaluate the integral:   Therefore, the improper integral converges and its value is .   "
+},
+{
+  "id": "ws-test-2-review-4-2",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-4-2",
+  "type": "Worksheet Exercise",
+  "number": "11.2",
+  "title": "",
+  "body": "  Determine whether the improper integral converges or diverges. If it converges, find its exact value.     What was challenging? Note what you wonder or notice as you solve the problem.    The integrand is undefined at , so we rewrite the integral as a limit:   Evaluate:   Therefore, the improper integral converges and its value is .   "
+},
+{
+  "id": "ws-test-2-review-5-1",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-5-1",
+  "type": "Worksheet Exercise",
+  "number": "11.3",
+  "title": "",
+  "body": "  Find the area of the region bounded by the curves and .  What was challenging? Note what you wonder or notice as you solve the problem.    First find the intersection points:    On the interval , the upper curve is and the lower curve is . Therefore,   Thus, the area is .   "
+},
+{
+  "id": "ws-test-2-review-5-2",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-5-2",
+  "type": "Worksheet Exercise",
+  "number": "11.4",
+  "title": "",
+  "body": "  Find the area of the region bounded by the curves and .  What was challenging? Note what you wonder or notice as you solve the problem.    Find the intersection points:   The intersections occur at and . On , is above .   Thus, the area is .   "
+},
+{
+  "id": "ws-test-2-review-6-1",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-6-1",
+  "type": "Worksheet Exercise",
+  "number": "11.5",
+  "title": "",
+  "body": "  Find the volume of the solid obtained by revolving the region bounded by , , about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.    Since the region is revolved about the -axis, the cross-sections are disks. The radius is .   Use the identity :   Therefore, the volume is .   "
+},
+{
+  "id": "ws-test-2-review-6-2",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-6-2",
+  "type": "Worksheet Exercise",
+  "number": "11.6",
+  "title": "",
+  "body": "  Find the volume of the solid obtained by revolving the region bounded by , , , and about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.    Since the region is revolved about the -axis, washers are used. The outer radius is and the inner radius is .   Therefore, the volume is .   "
+},
+{
+  "id": "ws-test-2-review-7-1",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-7-1",
+  "type": "Worksheet Exercise",
+  "number": "11.7",
+  "title": "",
+  "body": "  Use the cylindrical shell method to find the volume of the solid obtained by revolving the region bounded by , , , and about the line .  What was challenging? Note what you wonder or notice as you solve the problem.    Since the axis of rotation is horizontal, cylindrical shells are horizontal. We therefore integrate with respect to .  Solve for :   For , a horizontal slice extends from to . Thus, the height of a cylindrical shell is   The distance from the axis of rotation to the shell is   Using the cylindrical shell formula , the volume is   To evaluate the integral, use integration by parts. Let   Then   Therefore,   The boundary term is zero. At , , while at , the factor is zero. Hence,   Split the integral into two simpler integrals:   For the first integral, use , so that . Then   For the second integral, use the trigonometric substitution . Then   Since corresponds to and corresponds to , we obtain   Using the power-reduction identity ,   Consequently,   Therefore,   Thus, the volume is    "
+},
+{
+  "id": "ws-test-2-review-7-2",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-7-2",
+  "type": "Worksheet Exercise",
+  "number": "11.8",
+  "title": "",
+  "body": "  Use the cylindrical shell method to find the volume of the solid obtained by revolving the region bounded by , , , and about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.    Since the axis of rotation is the -axis, vertical slices form cylindrical shells. The shell radius is and the shell height is .   Use integration by parts. Let and . Then and .   Therefore,   Thus, the volume is .   "
+},
+{
+  "id": "ws-test-2-review-8-1",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-8-1",
+  "type": "Worksheet Exercise",
+  "number": "11.9",
+  "title": "",
+  "body": "  Use the arc length formula to find the exact length of the curve   What was challenging? Note what you wonder or notice as you solve the problem.    For the graph , the arc length from to is given by   First, compute the derivative:   Therefore,   To evaluate this integral, use the trigonometric substitution . Then   and   Thus,   We now derive the antiderivative of . Using integration by parts, let   Then   Therefore,   Using , we obtain   Adding to both sides gives   Hence,   It remains to evaluate . Multiply the integrand by :   Since , we have   Substituting this result into the previous expression gives   Now return to . Since ,   Thus,   Therefore,   Hence, the length of the curve is    "
+},
+{
+  "id": "ws-test-2-review-8-2",
+  "level": "2",
+  "url": "ws-test-2-review.html#ws-test-2-review-8-2",
+  "type": "Worksheet Exercise",
+  "number": "11.10",
+  "title": "",
+  "body": "  Find the exact length of the curve   What was challenging? Note what you wonder or notice as you solve the problem.    First compute the derivative:   Substitute into the arc length formula:   Since , we have . Therefore,   Thus, the exact length of the curve is .   "
+},
+{
   "id": "ws-week-7-day-1",
   "level": "1",
   "url": "ws-week-7-day-1.html",
   "type": "Worksheet",
-  "number": "11",
+  "number": "12",
   "title": "Week 7: day 1",
   "body": " Week 7: day 1    "
 },
@@ -833,7 +950,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ws-week-7-day-2.html",
   "type": "Worksheet",
-  "number": "12",
+  "number": "13",
   "title": "Week 7: day 2",
   "body": " Week 7: day 2    "
 },
@@ -842,7 +959,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ws-week-8-day-1.html",
   "type": "Worksheet",
-  "number": "13",
+  "number": "14",
   "title": "Week 8: day 1",
   "body": " Week 8: day 1    "
 },
@@ -851,7 +968,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ws-week-8-day-2.html",
   "type": "Worksheet",
-  "number": "14",
+  "number": "15",
   "title": "Week 8: day 2",
   "body": " Week 8: day 2    "
 }
