@@ -942,33 +942,123 @@ var ptx_lunr_docs = [
   "url": "ws-week-7-day-1.html",
   "type": "Worksheet",
   "number": "12",
-  "title": "Week 7: day 1",
-  "body": " Week 7: day 1    "
-},
-{
-  "id": "ws-week-7-day-2",
-  "level": "1",
-  "url": "ws-week-7-day-2.html",
-  "type": "Worksheet",
-  "number": "13",
-  "title": "Week 7: day 2",
-  "body": " Week 7: day 2    "
+  "title": "Week 7: Surface Area",
+  "body": " Week 7: Surface Area    "
 },
 {
   "id": "ws-week-8-day-1",
   "level": "1",
   "url": "ws-week-8-day-1.html",
   "type": "Worksheet",
-  "number": "14",
-  "title": "Week 8: day 1",
-  "body": " Week 8: day 1    "
+  "number": "13",
+  "title": "Week 8: Parametric Equations",
+  "body": " Week 8: Parametric Equations     To be able to interpret curves defined by parametric equations.    To be able to convert between parametric and Cartesian equations.    To be able to graph parametric curves and describe their direction of motion.        Formulas     Parametric Equations:       A parametric curve is the set of points obtained as the parameter varies.    Eliminating the parameter means finding an equation involving only and .    The parameter also determines how the curve is traced.       Group\/Board Work:    Instructions: Work with your group to investigate how parametric equations describe curves. Focus on what the parameter tells us about the graph.       Consider the parametric equations and .  (a) Complete a table of values for .  (b) Plot the resulting points and connect them in the order determined by increasing values of .  (c) Eliminate the parameter to find an equation relating and .  (d) What part of the curve is traced if ?  (e) What information does the parameter provide that the equation relating and does not?  What was challenging? Note what you wonder or notice as you solve the problem.      Consider and , .  (a) Make a table of values for .  (b) Plot the points and sketch the curve.  (c) Eliminate the parameter.  (d) Describe the direction in which the curve is traced.     What was challenging? Note what you wonder or notice as you solve the problem.         Eliminate the parameter and identify the curve.      ,      ,      ,      , ,      For each curve, describe any information about the graph that is determined by the interval for .  What was challenging? Note what you wonder or notice as you solve the problem.      Write parametric equations for each of the following curves.     The line .    The circle .    The upper semicircle .    The parabola .     For each one, give an appropriate interval for the parameter if you want to trace the entire curve exactly once.  What was challenging? Note what you wonder or notice as you solve the problem.         Plot the following parametric curves for .              Plot the following parametric curves.                    Plot the following parametric curve for .       Plot the following parametric curves.                 Create your name in parametric equations.           Whole Class Discussion    What is the advantage of describing a curve parametrically?    What does the parameter represent?    How can two different sets of parametric equations describe the same curve?    Why does the interval for matter?    How can you tell which direction a parametric curve is being traced?    What information can be lost when we eliminate the parameter?     "
+},
+{
+  "id": "ws-week-8-day-1-2",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-2",
+  "type": "Objectives",
+  "number": "13",
+  "title": "",
+  "body": "   To be able to interpret curves defined by parametric equations.    To be able to convert between parametric and Cartesian equations.    To be able to graph parametric curves and describe their direction of motion.    "
+},
+{
+  "id": "ws-week-8-day-1-3-1",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-3-1",
+  "type": "Remark",
+  "number": "13.1",
+  "title": "Formulas.",
+  "body": " Formulas     Parametric Equations:       A parametric curve is the set of points obtained as the parameter varies.    Eliminating the parameter means finding an equation involving only and .    The parameter also determines how the curve is traced.     "
+},
+{
+  "id": "ws-week-8-day-1-4-1",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "13.1",
+  "title": "",
+  "body": "  Consider the parametric equations and .  (a) Complete a table of values for .  (b) Plot the resulting points and connect them in the order determined by increasing values of .  (c) Eliminate the parameter to find an equation relating and .  (d) What part of the curve is traced if ?  (e) What information does the parameter provide that the equation relating and does not?  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-8-day-1-4-2",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "13.2",
+  "title": "",
+  "body": "  Consider and , .  (a) Make a table of values for .  (b) Plot the points and sketch the curve.  (c) Eliminate the parameter.  (d) Describe the direction in which the curve is traced.     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-8-day-1-5-1",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-5-1",
+  "type": "Worksheet Exercise",
+  "number": "13.3",
+  "title": "",
+  "body": "  Eliminate the parameter and identify the curve.      ,      ,      ,      , ,      For each curve, describe any information about the graph that is determined by the interval for .  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-8-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-5-2",
+  "type": "Worksheet Exercise",
+  "number": "13.4",
+  "title": "",
+  "body": "  Write parametric equations for each of the following curves.     The line .    The circle .    The upper semicircle .    The parabola .     For each one, give an appropriate interval for the parameter if you want to trace the entire curve exactly once.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-8-day-1-6-1",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-6-1",
+  "type": "Worksheet Exercise",
+  "number": "13.5",
+  "title": "",
+  "body": "  Plot the following parametric curves for .           "
+},
+{
+  "id": "ws-week-8-day-1-6-2",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-6-2",
+  "type": "Worksheet Exercise",
+  "number": "13.6",
+  "title": "",
+  "body": "  Plot the following parametric curves.              "
+},
+{
+  "id": "ws-week-8-day-1-7-1",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-7-1",
+  "type": "Worksheet Exercise",
+  "number": "13.7",
+  "title": "",
+  "body": "  Plot the following parametric curve for .    "
+},
+{
+  "id": "ws-week-8-day-1-7-2",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-7-2",
+  "type": "Worksheet Exercise",
+  "number": "13.8",
+  "title": "",
+  "body": "  Plot the following parametric curves.           "
+},
+{
+  "id": "ws-week-8-day-1-8-1",
+  "level": "2",
+  "url": "ws-week-8-day-1.html#ws-week-8-day-1-8-1",
+  "type": "Worksheet Exercise",
+  "number": "13.9",
+  "title": "",
+  "body": "  Create your name in parametric equations.       "
 },
 {
   "id": "ws-week-8-day-2",
   "level": "1",
   "url": "ws-week-8-day-2.html",
   "type": "Worksheet",
-  "number": "15",
+  "number": "14",
   "title": "Week 8: day 2",
   "body": " Week 8: day 2    "
 }
