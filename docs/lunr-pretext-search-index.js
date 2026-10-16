@@ -1114,7 +1114,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "14",
   "title": "Week 9: Calculus of parametric equations",
-  "body": " Week 9: Calculus of parametric equations     To be able to find the slope of a tangent line to a parametric curve.    To be able to find equations of tangent lines to parametric curves.    To be able to calculate second derivatives and determine concavity for parametric curves.    To be able to set up integrals to find the area enclosed by a parametric curve.    To be able to set up and evaluate arc length and surface area integrals for parametric curves.        formulas     First Derivative: if     Second Derivative:     Tangent Line:     Area Under a Parametric Curve:     Arc Length:     Surface Area About the -Axis:        Group\/Board Work:    Instructions: Work in groups to solve the problems on the board. Show your work and explain your reasoning to your group.       Find the slope of the tangent line to the parametric curve and at the point .  What was challenging? Note what you wonder or notice as you solve the problem.      Find the slope of the tangent line to the parametric curve and at the point .         Find an equation of the tangent line to the curve , at the point by two methods:  (a) Without eliminating the parameter.  (b) By first eliminating the parameter.  What was challenging? Note what you wonder or notice as you solve the problem.      Find and for the curve and . For which values of is the curve concave upward?  What was challenging? Note what you wonder or notice as you solve the problem.         Find the area enclosed by the parametric curve , , and the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact length of the curve , , for .  What was challenging? Note what you wonder or notice as you solve the problem.         Find the length of the loop of the parametric curve , .  Determine the parameter interval that traces the loop and explain why only that interval is needed.  What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact area of the surface obtained by rotating the curve , , for , about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.         Consider the parametric curve , .  (a) Find .  (b) Find the points where the tangent line is horizontal.  (c) Find the points where the tangent line is vertical.  (d) Explain how the values of and help identify these tangents.  What was challenging? Note what you wonder or notice as you solve the problem.      A curve is given by and .  (a) Find and .  (b) Determine the intervals of concavity, describing them in terms of the parameter .  (c) Explain why determining concavity from a parametric representation requires care when changes sign or is zero.  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    How do you find when both and depend on a parameter?    How can you recognize horizontal and vertical tangent lines from the parametric equations?    Why does finding the second derivative require dividing by ?    How do you determine the correct parameter interval when finding an area or the length of a loop?    What does the arc length integral measure geometrically?    How does the surface area formula account for the radius and the distance traveled along the curve?     "
+  "body": " Week 9: Calculus of parametric equations     To be able to find the slope of a tangent line to a parametric curve.    To be able to find equations of tangent lines to parametric curves.    To be able to calculate second derivatives and determine concavity for parametric curves.    To be able to set up integrals to find the area enclosed by a parametric curve.    To be able to set up and evaluate arc length and surface area integrals for parametric curves.        formulas     First Derivative: if     Second Derivative:     Tangent Line:     Area Under a Parametric Curve:     Arc Length:     Surface Area About the -Axis:        Group\/Board Work:    Instructions: Work in groups to solve the problems on the board. Show your work and explain your reasoning to your group.       Find the slope of the tangent line to the parametric curve and at the point .  What was challenging? Note what you wonder or notice as you solve the problem.     and   So,   For point , we have .  Thus, or   By the equation       Find the slope of the tangent line to the parametric curve and at the point .         Find an equation of the tangent line to the curve , at the point by two methods:  (a) Without eliminating the parameter.  (b) By first eliminating the parameter.  What was challenging? Note what you wonder or notice as you solve the problem.      Find and for the curve and . For which values of is the curve concave upward?  What was challenging? Note what you wonder or notice as you solve the problem.         Find the area enclosed by the parametric curve , , and the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact length of the curve , , for .  What was challenging? Note what you wonder or notice as you solve the problem.         Find the length of the loop of the parametric curve , .  Determine the parameter interval that traces the loop and explain why only that interval is needed.  What was challenging? Note what you wonder or notice as you solve the problem.      Find the exact area of the surface obtained by rotating the curve , , for , about the -axis.  What was challenging? Note what you wonder or notice as you solve the problem.         Consider the parametric curve , .  (a) Find .  (b) Find the points where the tangent line is horizontal.  (c) Find the points where the tangent line is vertical.  (d) Explain how the values of and help identify these tangents.  What was challenging? Note what you wonder or notice as you solve the problem.      A curve is given by and .  (a) Find and .  (b) Determine the intervals of concavity, describing them in terms of the parameter .  (c) Explain why determining concavity from a parametric representation requires care when changes sign or is zero.  What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    How do you find when both and depend on a parameter?    How can you recognize horizontal and vertical tangent lines from the parametric equations?    Why does finding the second derivative require dividing by ?    How do you determine the correct parameter interval when finding an area or the length of a loop?    What does the arc length integral measure geometrically?    How does the surface area formula account for the radius and the distance traveled along the curve?     "
 },
 {
   "id": "ws-week-9-day-1-2",
@@ -1141,7 +1141,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "14.1",
   "title": "",
-  "body": "  Find the slope of the tangent line to the parametric curve and at the point .  What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "  Find the slope of the tangent line to the parametric curve and at the point .  What was challenging? Note what you wonder or notice as you solve the problem.     and   So,   For point , we have .  Thus, or   By the equation    "
 },
 {
   "id": "ws-week-9-day-1-4-2",
@@ -1230,8 +1230,233 @@ var ptx_lunr_docs = [
   "url": "ws-week-9-day-2.html",
   "type": "Worksheet",
   "number": "15",
-  "title": "Week 9 day 2",
-  "body": " Week 9 day 2    "
+  "title": "Week 9: Sequences",
+  "body": " Week 9: Sequences     To be able to evaluate limits of sequences using limit laws.    To be able to use the Squeeze Theorem to evaluate limits of sequences.    To be able to determine whether a sequence is increasing, decreasing, or monotonic.    To be able to determine whether a sequence is bounded.    To be able to use the Monotone Convergence Theorem to establish convergence.        Formulas and Theorems     Limit Laws for Sequences: Suppose and .    Sum Law:     Difference Law:     Constant Multiple Law:     Product Law:     Quotient Law: , provided .    Power Law: , whenever the power function is defined and continuous at .     (Squeeze Theorem for Sequences)   If for all sufficiently large , and , then .    A sequence is increasing  for all , and decreasing if for all .  A sequence is monotonic if it is either increasing or decreasing.   Monotone Convergence   Every bounded, monotonic sequence converges. In particular, an increasing sequence that is bounded above converges, and a decreasing sequence that is bounded below converges.      Group\/Board Work:    Instructions: Work in groups to evaluate limits and determine whether sequences converge. Explain your reasoning and justify your conclusions using the formulas and theorems above.       Evaluate each limit, if it exists. State which limit laws you used.                        What was challenging? Note what you wonder or notice as you solve the problem.      Evaluate each limit, if it exists. For each sequence, explain why the limit laws apply.                               What was challenging? Note what you wonder or notice as you solve the problem.         Determine whether each sequence is increasing, decreasing, or neither. Justify your answer.                          What was challenging? Note what you wonder or notice as you solve the problem.      Consider the recursively defined sequence and .     Find , , and .    Conjecture whether the sequence is increasing or decreasing.    Show that for every .    Use the Monotone Convergence Theorem to establish that the sequence converges.    If the sequence converges to , use the recursive formula to find .     What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    What is the difference between a sequence approaching a limit and a sequence being bounded?    Why does the Squeeze Theorem work when the lower and upper bounds approach the same limit?    How can comparing and help determine whether a sequence is monotonic?    Why does a bounded, monotonic sequence converge?    If a sequence is monotonic but unbounded, what can you conclude about its convergence?    For a recursively defined sequence, how can you use the assumption that the sequence converges to determine its limit?    ``` "
+},
+{
+  "id": "ws-week-9-day-2-2",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#ws-week-9-day-2-2",
+  "type": "Objectives",
+  "number": "15",
+  "title": "",
+  "body": "   To be able to evaluate limits of sequences using limit laws.    To be able to use the Squeeze Theorem to evaluate limits of sequences.    To be able to determine whether a sequence is increasing, decreasing, or monotonic.    To be able to determine whether a sequence is bounded.    To be able to use the Monotone Convergence Theorem to establish convergence.    "
+},
+{
+  "id": "ws-week-9-day-2-3-1",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#ws-week-9-day-2-3-1",
+  "type": "Remark",
+  "number": "15.1",
+  "title": "Formulas and Theorems.",
+  "body": " Formulas and Theorems     Limit Laws for Sequences: Suppose and .    Sum Law:     Difference Law:     Constant Multiple Law:     Product Law:     Quotient Law: , provided .    Power Law: , whenever the power function is defined and continuous at .     (Squeeze Theorem for Sequences)   If for all sufficiently large , and , then .    A sequence is increasing  for all , and decreasing if for all .  A sequence is monotonic if it is either increasing or decreasing.   Monotone Convergence   Every bounded, monotonic sequence converges. In particular, an increasing sequence that is bounded above converges, and a decreasing sequence that is bounded below converges.    "
+},
+{
+  "id": "ws-week-9-day-2-4-1",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#ws-week-9-day-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "15.1",
+  "title": "",
+  "body": "  Evaluate each limit, if it exists. State which limit laws you used.                        What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-9-day-2-4-2",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#ws-week-9-day-2-4-2",
+  "type": "Worksheet Exercise",
+  "number": "15.2",
+  "title": "",
+  "body": "  Evaluate each limit, if it exists. For each sequence, explain why the limit laws apply.                               What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-9-day-2-5-1",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#ws-week-9-day-2-5-1",
+  "type": "Worksheet Exercise",
+  "number": "15.3",
+  "title": "",
+  "body": "  Determine whether each sequence is increasing, decreasing, or neither. Justify your answer.                          What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-9-day-2-5-2",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#ws-week-9-day-2-5-2",
+  "type": "Worksheet Exercise",
+  "number": "15.4",
+  "title": "",
+  "body": "  Consider the recursively defined sequence and .     Find , , and .    Conjecture whether the sequence is increasing or decreasing.    Show that for every .    Use the Monotone Convergence Theorem to establish that the sequence converges.    If the sequence converges to , use the recursive formula to find .     What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-1",
+  "level": "1",
+  "url": "ws-week-10-day-1.html",
+  "type": "Worksheet",
+  "number": "16",
+  "title": "Week 10: Series",
+  "body": " Week 10: Series     To be able to determine whether a series converges or diverges using its sequence of partial sums.    To be able to identify and evaluate convergent geometric series.    To be able to recognize the harmonic series and determine whether it converges or diverges.    To be able to use the Test for Divergence to determine when a series diverges.    To be able to apply the properties of convergent series.        Formulas and Theorems    The th partial sum of a series is .  The infinite series  converges if the sequence of partial sums converges to a finite limit . In this case, . Otherwise, the series diverges.   Geometric Series:  , provided . The series diverges when , unless , in which case every term is zero.   Harmonic Series:  diverges.   Test for Divergence: If or the limit does not exist, then diverges. If , the test is inconclusive. The harmonic series is an example of where the test is inconclusive.   Properties of Convergent Series: Suppose and are convergent series, and let be a constant.    Constant Multiple Law: .    Sum Law: .    Difference Law: .         Group\/Board Work:    Instructions: Work in groups to determine whether each series converges or diverges. When possible, find the sum. Explain your reasoning.    Calculate the sum of the series for the partial sum .      Calculate the sum of the series for the partial sum .         Let .   Determine whether is convergent.    Determine whether is convergent.         Consider the series .  (a) Find the first four partial sums.  (b) Write a formula for the th partial sum.  (c) Determine whether the series converges or diverges. If it converges, find its sum.  What was challenging? Note what you wonder or notice as you solve the problem.      Determine whether each geometric series converges or diverges. For each convergent series, find its sum.                                         What was challenging? Note what you wonder or notice as you solve the problem.         Consider the harmonic series .  (a) Write the first five partial sums.  (b) Explain why the fact that the terms approach zero does not guarantee that the series converges.  (c) State whether the series converges or diverges.  What was challenging? Note what you wonder or notice as you solve the problem.      Use the Test for Divergence to determine whether each series diverges. If the test is inconclusive, state that it is inconclusive.  (a)   (b)   (c)   (d)   What was challenging? Note what you wonder or notice as you solve the problem.         Suppose and , where both series converge. Evaluate each series.  (a)   (b)   (c)   (d) Explain why these properties cannot automatically be used if one of the original series diverges.  What was challenging? Note what you wonder or notice as you solve the problem.      Determine whether each series converges or diverges. If the series converges, evaluate the series.  (a)   (b)   (c)   (d)         What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    What is the difference between a sequence of terms and the sequence of partial sums of a series?    Why does a geometric series converge only when the common ratio has absolute value less than one?    Why is the harmonic series divergent even though its terms approach zero?    What can the Test for Divergence tell us, and what can it not tell us?    Why do the sum and difference laws require the original series to converge?     "
+},
+{
+  "id": "ws-week-10-day-1-2",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-2",
+  "type": "Objectives",
+  "number": "16",
+  "title": "",
+  "body": "   To be able to determine whether a series converges or diverges using its sequence of partial sums.    To be able to identify and evaluate convergent geometric series.    To be able to recognize the harmonic series and determine whether it converges or diverges.    To be able to use the Test for Divergence to determine when a series diverges.    To be able to apply the properties of convergent series.    "
+},
+{
+  "id": "ws-week-10-day-1-3-1",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-3-1",
+  "type": "Remark",
+  "number": "16.1",
+  "title": "Formulas and Theorems.",
+  "body": " Formulas and Theorems    The th partial sum of a series is .  The infinite series  converges if the sequence of partial sums converges to a finite limit . In this case, . Otherwise, the series diverges.   Geometric Series:  , provided . The series diverges when , unless , in which case every term is zero.   Harmonic Series:  diverges.   Test for Divergence: If or the limit does not exist, then diverges. If , the test is inconclusive. The harmonic series is an example of where the test is inconclusive.   Properties of Convergent Series: Suppose and are convergent series, and let be a constant.    Constant Multiple Law: .    Sum Law: .    Difference Law: .    "
+},
+{
+  "id": "ws-week-10-day-1-4-3",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-4-3",
+  "type": "Worksheet Exercise",
+  "number": "16.1",
+  "title": "",
+  "body": "  Calculate the sum of the series for the partial sum .   "
+},
+{
+  "id": "ws-week-10-day-1-4-4",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-4-4",
+  "type": "Worksheet Exercise",
+  "number": "16.2",
+  "title": "",
+  "body": "  Calculate the sum of the series for the partial sum .   "
+},
+{
+  "id": "ws-week-10-day-1-5-1",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-5-1",
+  "type": "Worksheet Exercise",
+  "number": "16.3",
+  "title": "",
+  "body": "  Let .   Determine whether is convergent.    Determine whether is convergent.      "
+},
+{
+  "id": "ws-week-10-day-1-5-2",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-5-2",
+  "type": "Worksheet Exercise",
+  "number": "16.4",
+  "title": "",
+  "body": "  Consider the series .  (a) Find the first four partial sums.  (b) Write a formula for the th partial sum.  (c) Determine whether the series converges or diverges. If it converges, find its sum.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-1-5-3",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-5-3",
+  "type": "Worksheet Exercise",
+  "number": "16.5",
+  "title": "",
+  "body": "  Determine whether each geometric series converges or diverges. For each convergent series, find its sum.                                         What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-1-6-1",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-6-1",
+  "type": "Worksheet Exercise",
+  "number": "16.6",
+  "title": "",
+  "body": "  Consider the harmonic series .  (a) Write the first five partial sums.  (b) Explain why the fact that the terms approach zero does not guarantee that the series converges.  (c) State whether the series converges or diverges.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-1-6-2",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-6-2",
+  "type": "Worksheet Exercise",
+  "number": "16.7",
+  "title": "",
+  "body": "  Use the Test for Divergence to determine whether each series diverges. If the test is inconclusive, state that it is inconclusive.  (a)   (b)   (c)   (d)   What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-1-7-1",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-7-1",
+  "type": "Worksheet Exercise",
+  "number": "16.8",
+  "title": "",
+  "body": "  Suppose and , where both series converge. Evaluate each series.  (a)   (b)   (c)   (d) Explain why these properties cannot automatically be used if one of the original series diverges.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-1-7-2",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#ws-week-10-day-1-7-2",
+  "type": "Worksheet Exercise",
+  "number": "16.9",
+  "title": "",
+  "body": "  Determine whether each series converges or diverges. If the series converges, evaluate the series.  (a)   (b)   (c)   (d)         What was challenging? Note what you wonder or notice as you solve the problem.   "
+},
+{
+  "id": "ws-week-10-day-2",
+  "level": "1",
+  "url": "ws-week-10-day-2.html",
+  "type": "Worksheet",
+  "number": "17",
+  "title": "Week 10 day 2",
+  "body": " Week 10 day 2    "
+},
+{
+  "id": "ws-week-11-day-1",
+  "level": "1",
+  "url": "ws-week-11-day-1.html",
+  "type": "Worksheet",
+  "number": "18",
+  "title": "Week 11 day 1",
+  "body": " Week 11 day 1    "
+},
+{
+  "id": "ws-week-11-day-2",
+  "level": "1",
+  "url": "ws-week-11-day-2.html",
+  "type": "Worksheet",
+  "number": "19",
+  "title": "Week 11 day 2",
+  "body": " Week 11 day 2    "
+},
+{
+  "id": "ws-week-12-day-1",
+  "level": "1",
+  "url": "ws-week-12-day-1.html",
+  "type": "Worksheet",
+  "number": "20",
+  "title": "Week 12 day 1",
+  "body": " Week 12 day 1    "
+},
+{
+  "id": "ws-week-12-day-2",
+  "level": "1",
+  "url": "ws-week-12-day-2.html",
+  "type": "Worksheet",
+  "number": "21",
+  "title": "Week 12 day 2",
+  "body": " Week 12 day 2    "
+},
+{
+  "id": "ws-week-13-day-1",
+  "level": "1",
+  "url": "ws-week-13-day-1.html",
+  "type": "Worksheet",
+  "number": "22",
+  "title": "Week 13 day 1",
+  "body": " Week 13 day 1    "
+},
+{
+  "id": "ws-week-13-day-2",
+  "level": "1",
+  "url": "ws-week-13-day-2.html",
+  "type": "Worksheet",
+  "number": "23",
+  "title": "Week 13 day 2",
+  "body": " Week 13 day 2    "
 }
 ]
 
