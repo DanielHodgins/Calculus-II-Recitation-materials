@@ -1231,7 +1231,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "15",
   "title": "Week 9: Sequences",
-  "body": " Week 9: Sequences     To be able to evaluate limits of sequences using limit laws.    To be able to use the Squeeze Theorem to evaluate limits of sequences.    To be able to determine whether a sequence is increasing, decreasing, or monotonic.    To be able to determine whether a sequence is bounded.    To be able to use the Monotone Convergence Theorem to establish convergence.        Formulas and Theorems     Limit Laws for Sequences: Suppose and .    Sum Law:     Difference Law:     Constant Multiple Law:     Product Law:     Quotient Law: , provided .    Power Law: , whenever the power function is defined and continuous at .     (Squeeze Theorem for Sequences)   If for all sufficiently large , and , then .    A sequence is increasing  for all , and decreasing if for all .  A sequence is monotonic if it is either increasing or decreasing.   Monotone Convergence   Every bounded, monotonic sequence converges. In particular, an increasing sequence that is bounded above converges, and a decreasing sequence that is bounded below converges.      Group\/Board Work:    Instructions: Work in groups to evaluate limits and determine whether sequences converge. Explain your reasoning and justify your conclusions using the formulas and theorems above.       Evaluate each limit, if it exists. State which limit laws you used.                        What was challenging? Note what you wonder or notice as you solve the problem.      Evaluate each limit, if it exists. For each sequence, explain why the limit laws apply.                               What was challenging? Note what you wonder or notice as you solve the problem.         Determine whether each sequence is increasing, decreasing, or neither. Justify your answer.                          What was challenging? Note what you wonder or notice as you solve the problem.      Consider the recursively defined sequence and .     Find , , and .    Conjecture whether the sequence is increasing or decreasing.    Show that for every .    Use the Monotone Convergence Theorem to establish that the sequence converges.    If the sequence converges to , use the recursive formula to find .     What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    What is the difference between a sequence approaching a limit and a sequence being bounded?    Why does the Squeeze Theorem work when the lower and upper bounds approach the same limit?    How can comparing and help determine whether a sequence is monotonic?    Why does a bounded, monotonic sequence converge?    If a sequence is monotonic but unbounded, what can you conclude about its convergence?    For a recursively defined sequence, how can you use the assumption that the sequence converges to determine its limit?    ``` "
+  "body": " Week 9: Sequences     To be able to evaluate limits of sequences using limit laws.    To be able to use the Squeeze Theorem to evaluate limits of sequences.    To be able to determine whether a sequence is increasing, decreasing, or monotonic.    To be able to determine whether a sequence is bounded.    To be able to use the Monotone Convergence Theorem to establish convergence.        Formulas and Theorems     Limit Laws for Sequences: Suppose and .    Sum Law:     Difference Law:     Constant Multiple Law:     Product Law:     Quotient Law: , provided .    Power Law: , whenever the power function is defined and continuous at .     (Squeeze Theorem for Sequences)   If for all sufficiently large , and , then .    A sequence is increasing  for all , and decreasing if for all .  A sequence is monotonic if it is either increasing or decreasing.   Monotone Convergence   Every bounded, monotonic sequence converges. In particular, an increasing sequence that is bounded above converges, and a decreasing sequence that is bounded below converges.      Group\/Board Work:    Instructions: Work in groups to evaluate limits and determine whether sequences converge. Explain your reasoning and justify your conclusions using the formulas and theorems above.       Evaluate each limit, if it exists. State which limit laws you used.                        What was challenging? Note what you wonder or notice as you solve the problem.      Evaluate each limit, if it exists. For each sequence, explain why the limit laws apply.                               What was challenging? Note what you wonder or notice as you solve the problem.         Determine whether each sequence is increasing, decreasing, or neither. Justify your answer.                          What was challenging? Note what you wonder or notice as you solve the problem.      Consider the recursively defined sequence and .     Find , , and .    Conjecture whether the sequence is increasing or decreasing.    Show that for every .    Use the Monotone Convergence Theorem to establish that the sequence converges.    If the sequence converges to , use the recursive formula to find .     What was challenging? Note what you wonder or notice as you solve the problem.       Interactive exercises on parametric vectors     Interactive exercises on parametric vectors       Whole Class Discussion    What is the difference between a sequence approaching a limit and a sequence being bounded?    Why does the Squeeze Theorem work when the lower and upper bounds approach the same limit?    How can comparing and help determine whether a sequence is monotonic?    Why does a bounded, monotonic sequence converge?    If a sequence is monotonic but unbounded, what can you conclude about its convergence?    For a recursively defined sequence, how can you use the assumption that the sequence converges to determine its limit?     "
 },
 {
   "id": "ws-week-9-day-2-2",
@@ -1288,13 +1288,31 @@ var ptx_lunr_docs = [
   "body": "  Consider the recursively defined sequence and .     Find , , and .    Conjecture whether the sequence is increasing or decreasing.    Show that for every .    Use the Monotone Convergence Theorem to establish that the sequence converges.    If the sequence converges to , use the recursive formula to find .     What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
+  "id": "sequences-formula-checkit",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#sequences-formula-checkit",
+  "type": "Figure",
+  "number": "15.4",
+  "title": "",
+  "body": " Interactive exercises on parametric vectors   "
+},
+{
+  "id": "sequence-limits-checkit",
+  "level": "2",
+  "url": "ws-week-9-day-2.html#sequence-limits-checkit",
+  "type": "Figure",
+  "number": "15.5",
+  "title": "",
+  "body": " Interactive exercises on parametric vectors   "
+},
+{
   "id": "ws-week-10-day-1",
   "level": "1",
   "url": "ws-week-10-day-1.html",
   "type": "Worksheet",
   "number": "16",
   "title": "Week 10: Series",
-  "body": " Week 10: Series     To be able to determine whether a series converges or diverges using its sequence of partial sums.    To be able to identify and evaluate convergent geometric series.    To be able to recognize the harmonic series and determine whether it converges or diverges.    To be able to use the Test for Divergence to determine when a series diverges.    To be able to apply the properties of convergent series.        Formulas and Theorems    The th partial sum of a series is .  The infinite series  converges if the sequence of partial sums converges to a finite limit . In this case, . Otherwise, the series diverges.   Geometric Series:  , provided . The series diverges when , unless , in which case every term is zero.   Harmonic Series:  diverges.   Test for Divergence: If or the limit does not exist, then diverges. If , the test is inconclusive. The harmonic series is an example of where the test is inconclusive.   Properties of Convergent Series: Suppose and are convergent series, and let be a constant.    Constant Multiple Law: .    Sum Law: .    Difference Law: .         Group\/Board Work:    Instructions: Work in groups to determine whether each series converges or diverges. When possible, find the sum. Explain your reasoning.    Calculate the sum of the series for the partial sum .      Calculate the sum of the series for the partial sum .         Let .   Determine whether is convergent.    Determine whether is convergent.         Consider the series .  (a) Find the first four partial sums.  (b) Write a formula for the th partial sum.  (c) Determine whether the series converges or diverges. If it converges, find its sum.  What was challenging? Note what you wonder or notice as you solve the problem.      Determine whether each geometric series converges or diverges. For each convergent series, find its sum.                                         What was challenging? Note what you wonder or notice as you solve the problem.         Consider the harmonic series .  (a) Write the first five partial sums.  (b) Explain why the fact that the terms approach zero does not guarantee that the series converges.  (c) State whether the series converges or diverges.  What was challenging? Note what you wonder or notice as you solve the problem.      Use the Test for Divergence to determine whether each series diverges. If the test is inconclusive, state that it is inconclusive.  (a)   (b)   (c)   (d)   What was challenging? Note what you wonder or notice as you solve the problem.         Suppose and , where both series converge. Evaluate each series.  (a)   (b)   (c)   (d) Explain why these properties cannot automatically be used if one of the original series diverges.  What was challenging? Note what you wonder or notice as you solve the problem.      Determine whether each series converges or diverges. If the series converges, evaluate the series.  (a)   (b)   (c)   (d)         What was challenging? Note what you wonder or notice as you solve the problem.       Whole Class Discussion    What is the difference between a sequence of terms and the sequence of partial sums of a series?    Why does a geometric series converge only when the common ratio has absolute value less than one?    Why is the harmonic series divergent even though its terms approach zero?    What can the Test for Divergence tell us, and what can it not tell us?    Why do the sum and difference laws require the original series to converge?     "
+  "body": " Week 10: Series     To be able to determine whether a series converges or diverges using its sequence of partial sums.    To be able to identify and evaluate convergent geometric series.    To be able to recognize the harmonic series and determine whether it converges or diverges.    To be able to use the Test for Divergence to determine when a series diverges.    To be able to apply the properties of convergent series.        Formulas and Theorems    The th partial sum of a series is .  The infinite series  converges if the sequence of partial sums converges to a finite limit . In this case, . Otherwise, the series diverges.   Geometric Series:  , provided . The series diverges when , unless , in which case every term is zero.   Harmonic Series:  diverges.   Test for Divergence: If or the limit does not exist, then diverges. If , the test is inconclusive. The harmonic series is an example of where the test is inconclusive.   Properties of Convergent Series: Suppose and are convergent series, and let be a constant.    Constant Multiple Law: .    Sum Law: .    Difference Law: .         Group\/Board Work:    Instructions: Work in groups to determine whether each series converges or diverges. When possible, find the sum. Explain your reasoning.    Consider the infinite series   Find the following:                 Consider the infinite series   Find the following:               Step 1: Expand the series   All the intermediate terms cancel!   Step 2: Find       Step 3: Find       Step 4: General partial sum          Let .   Determine whether is convergent.    Determine whether is convergent.         Consider the series .    Find the first four partial sums.    Write a formula for the th partial sum.    Determine whether the series converges or diverges. If it converges, find its sum.    What was challenging? Note what you wonder or notice as you solve the problem.      Determine whether each geometric series converges or diverges. For each convergent series, find its sum.                                         What was challenging? Note what you wonder or notice as you solve the problem.         Consider the harmonic series .  (a) Write the first five partial sums.  (b) Explain why the fact that the terms approach zero does not guarantee that the series converges.  (c) State whether the series converges or diverges.  What was challenging? Note what you wonder or notice as you solve the problem.      Use the Test for Divergence to determine whether each series diverges. If the test is inconclusive, state that it is inconclusive.  (a)   (b)   (c)   (d)   What was challenging? Note what you wonder or notice as you solve the problem.         Suppose and , where both series converge. Evaluate each series.  (a)   (b)   (c)   (d) Explain why these properties cannot automatically be used if one of the original series diverges.  What was challenging? Note what you wonder or notice as you solve the problem.      Determine whether each series converges or diverges. If the series converges, evaluate the series.  (a)   (b)   (c)   (d)         What was challenging? Note what you wonder or notice as you solve the problem.       Interactive exercises on parametric vectors       Whole Class Discussion    What is the difference between a sequence of terms and the sequence of partial sums of a series?    Why does a geometric series converge only when the common ratio has absolute value less than one?    Why is the harmonic series divergent even though its terms approach zero?    What can the Test for Divergence tell us, and what can it not tell us?    Why do the sum and difference laws require the original series to converge?     "
 },
 {
   "id": "ws-week-10-day-1-2",
@@ -1321,7 +1339,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "16.1",
   "title": "",
-  "body": "  Calculate the sum of the series for the partial sum .   "
+  "body": "  Consider the infinite series   Find the following:              "
 },
 {
   "id": "ws-week-10-day-1-4-4",
@@ -1330,7 +1348,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "16.2",
   "title": "",
-  "body": "  Calculate the sum of the series for the partial sum .   "
+  "body": "  Consider the infinite series   Find the following:               Step 1: Expand the series   All the intermediate terms cancel!   Step 2: Find       Step 3: Find       Step 4: General partial sum    "
 },
 {
   "id": "ws-week-10-day-1-5-1",
@@ -1348,7 +1366,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "16.4",
   "title": "",
-  "body": "  Consider the series .  (a) Find the first four partial sums.  (b) Write a formula for the th partial sum.  (c) Determine whether the series converges or diverges. If it converges, find its sum.  What was challenging? Note what you wonder or notice as you solve the problem.   "
+  "body": "  Consider the series .    Find the first four partial sums.    Write a formula for the th partial sum.    Determine whether the series converges or diverges. If it converges, find its sum.    What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
   "id": "ws-week-10-day-1-5-3",
@@ -1396,13 +1414,22 @@ var ptx_lunr_docs = [
   "body": "  Determine whether each series converges or diverges. If the series converges, evaluate the series.  (a)   (b)   (c)   (d)         What was challenging? Note what you wonder or notice as you solve the problem.   "
 },
 {
+  "id": "partial-sum-checkit",
+  "level": "2",
+  "url": "ws-week-10-day-1.html#partial-sum-checkit",
+  "type": "Figure",
+  "number": "16.2",
+  "title": "",
+  "body": " Interactive exercises on parametric vectors   "
+},
+{
   "id": "ws-week-10-day-2",
   "level": "1",
   "url": "ws-week-10-day-2.html",
   "type": "Worksheet",
   "number": "17",
-  "title": "Week 10 day 2",
-  "body": " Week 10 day 2    "
+  "title": "Week 10: Integral Test",
+  "body": " Week 10: Integral Test  "
 },
 {
   "id": "ws-week-11-day-1",
@@ -1410,8 +1437,8 @@ var ptx_lunr_docs = [
   "url": "ws-week-11-day-1.html",
   "type": "Worksheet",
   "number": "18",
-  "title": "Week 11 day 1",
-  "body": " Week 11 day 1    "
+  "title": "Week 11: Comparison Test",
+  "body": " Week 11: Comparison Test    "
 },
 {
   "id": "ws-week-11-day-2",
@@ -1428,8 +1455,8 @@ var ptx_lunr_docs = [
   "url": "ws-week-12-day-1.html",
   "type": "Worksheet",
   "number": "20",
-  "title": "Week 12 day 1",
-  "body": " Week 12 day 1    "
+  "title": "Week 12: Alternating Series and Absolute Convergence",
+  "body": " Week 12: Alternating Series and Absolute Convergence    "
 },
 {
   "id": "ws-week-12-day-2",
@@ -1437,8 +1464,8 @@ var ptx_lunr_docs = [
   "url": "ws-week-12-day-2.html",
   "type": "Worksheet",
   "number": "21",
-  "title": "Week 12 day 2",
-  "body": " Week 12 day 2    "
+  "title": "Week 12: Ratio and Root Test",
+  "body": " Week 12: Ratio and Root Test    "
 },
 {
   "id": "ws-week-13-day-1",
@@ -1446,8 +1473,8 @@ var ptx_lunr_docs = [
   "url": "ws-week-13-day-1.html",
   "type": "Worksheet",
   "number": "22",
-  "title": "Week 13 day 1",
-  "body": " Week 13 day 1    "
+  "title": "Week 13: Power Series",
+  "body": " Week 13: Power Series    "
 },
 {
   "id": "ws-week-13-day-2",
@@ -1455,8 +1482,44 @@ var ptx_lunr_docs = [
   "url": "ws-week-13-day-2.html",
   "type": "Worksheet",
   "number": "23",
-  "title": "Week 13 day 2",
-  "body": " Week 13 day 2    "
+  "title": "Week 13: Functions as Power Series",
+  "body": " Week 13: Functions as Power Series    "
+},
+{
+  "id": "ws-week-14-day-1",
+  "level": "1",
+  "url": "ws-week-14-day-1.html",
+  "type": "Worksheet",
+  "number": "24",
+  "title": "Week 14: Taylor and Maclaurin Series",
+  "body": " Week 14: Taylor and Maclaurin Series    "
+},
+{
+  "id": "ws-week-14-day-2",
+  "level": "1",
+  "url": "ws-week-14-day-2.html",
+  "type": "Worksheet",
+  "number": "25",
+  "title": "Week 14 day 2",
+  "body": " Week 14 day 2    "
+},
+{
+  "id": "ws-week-15-day-1",
+  "level": "1",
+  "url": "ws-week-15-day-1.html",
+  "type": "Worksheet",
+  "number": "26",
+  "title": "Week 15: Polar Coordinates",
+  "body": " Week 15: Polar Coordinates    "
+},
+{
+  "id": "ws-week-15-day-2",
+  "level": "1",
+  "url": "ws-week-15-day-2.html",
+  "type": "Worksheet",
+  "number": "27",
+  "title": "Week 15: Calculus of Polar Coordinates",
+  "body": " Week 15: Calculus of Polar Coordinates    "
 }
 ]
 
